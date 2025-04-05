@@ -1,4 +1,4 @@
-# The Standard Software License  
+# The Standard Software License (TSSL)
 Version 1.0  
 © [2025] [HASSAN HABIB]  
 SPDX-License-Identifier: Standard-1.0
