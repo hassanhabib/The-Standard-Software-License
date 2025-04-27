@@ -1,5 +1,5 @@
 # The Standard Software License (TSSL)
-Version 1.0  
+Version 1.1
 © [2025] [HASSAN HABIB]  
 
 ---
@@ -67,6 +67,14 @@ If this software is used in **artificial intelligence systems**, **automated dec
 > You can profit **with it**, but not **from it directly**.
 
 This ensures that once made free, the software remains free forever—regardless of popularity or success.
+
+---
+
+## 5.1 Third Party License Compliance
+
+- Any use of this Software, including Commercial Use, that incorporates or depends on third-party software must fully comply with the license terms of those third-party components.
+- This license does not grant permission to use any third-party software in a way that violates its own license terms.
+- The inclusion of third-party software in any distribution of this Software does not constitute an authorization or waiver of those third-party license restrictions.
 
 ---
 
